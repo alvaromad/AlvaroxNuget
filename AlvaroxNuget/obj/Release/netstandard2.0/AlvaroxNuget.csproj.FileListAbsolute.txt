@@ -1,0 +1,9 @@
+F:\ALVARO\AZURE\Proyectos\AlvaroxNuget\AlvaroxNuget\bin\Release\netstandard2.0\AlvaroxNuget.deps.json
+F:\ALVARO\AZURE\Proyectos\AlvaroxNuget\AlvaroxNuget\bin\Release\netstandard2.0\AlvaroxNuget.dll
+F:\ALVARO\AZURE\Proyectos\AlvaroxNuget\AlvaroxNuget\bin\Release\netstandard2.0\AlvaroxNuget.pdb
+F:\ALVARO\AZURE\Proyectos\AlvaroxNuget\AlvaroxNuget\obj\Release\netstandard2.0\AlvaroxNuget.csprojResolveAssemblyReference.cache
+F:\ALVARO\AZURE\Proyectos\AlvaroxNuget\AlvaroxNuget\obj\Release\netstandard2.0\AlvaroxNuget.csproj.CoreCompileInputs.cache
+F:\ALVARO\AZURE\Proyectos\AlvaroxNuget\AlvaroxNuget\obj\Release\netstandard2.0\AlvaroxNuget.AssemblyInfoInputs.cache
+F:\ALVARO\AZURE\Proyectos\AlvaroxNuget\AlvaroxNuget\obj\Release\netstandard2.0\AlvaroxNuget.AssemblyInfo.cs
+F:\ALVARO\AZURE\Proyectos\AlvaroxNuget\AlvaroxNuget\obj\Release\netstandard2.0\AlvaroxNuget.dll
+F:\ALVARO\AZURE\Proyectos\AlvaroxNuget\AlvaroxNuget\obj\Release\netstandard2.0\AlvaroxNuget.pdb

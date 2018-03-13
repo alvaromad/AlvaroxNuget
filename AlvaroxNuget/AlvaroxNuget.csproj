@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>friki</Authors>
+    <Company>frikilandia</Company>
+    <Product>traductor</Product>
+    <Description>un traductor ODATA a Clases</Description>
+    <PackageTags>OData, Northwind</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
+  </ItemGroup>
+
+</Project>
